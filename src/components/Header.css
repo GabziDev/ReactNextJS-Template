@@ -1,0 +1,24 @@
+.navbar .links {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #21222c;
+}
+
+.links .list-item {
+    float: left;
+}
+
+.list-item .link {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    transition: ease-in-out 200ms;
+}
+
+.list-item .link:hover {
+    background-color: #111;
+}
