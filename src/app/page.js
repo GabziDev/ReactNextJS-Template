@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <main>
         <Header/>
-        <Hero/>
+        <Hero title="TEMPLATE" subtitle="ReactJS & NextJS"/>
         <Footer/>
     </main>
   )
